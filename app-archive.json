@@ -13,7 +13,7 @@
             ],
             "date": "202512-28",
             "mandatory": true,
-            "url": "https://github.com/ALFIAN-code/flutter-oat-test/dist/1/1.0.0+1-windows",
+            "url": "https://alfian-code.github.io/flutter-oat-test/dist/1/1.0.0+1-windows",
             "platform": "windows"
         },
         {
@@ -27,7 +27,7 @@
             ],
             "date": "202512-25",
             "mandatory": true,
-            "url": "https://github.com/ALFIAN-code/flutter-oat-test/dist/1/1.0.0+1-windows",
+            "url": "https://alfian-code.github.io/flutter-oat-test/dist/1/1.0.0+1-windows",
             "platform": "windows"
         }
     ]
