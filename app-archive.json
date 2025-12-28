@@ -1,0 +1,20 @@
+{
+    "appName": "Forlux Updater",
+    "description": "This is my app description",
+    "items": [
+        {
+            "version": "1.0.0",
+            "shortVersion": 1,
+            "changes": [
+                {
+                    "type": "chore",
+                    "message": "Fix bug #1"
+                },
+            ],
+            "date": "202512-28",
+            "mandatory": true,
+            "url": "https://github.com/ALFIAN-code/flutter-oat-test/releases/download/1.0.0/Forlux-x86_64-1.0.0+1-Installer.exe",
+            "platform": "windows"
+        },
+    ]
+}
