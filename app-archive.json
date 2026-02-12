@@ -7,7 +7,7 @@
             "shortVersion": 4,
             "changes": [
                 {
-                    "type": "testing update"
+                    "type": "testing update",
                     "message": "Fix bug #1"
                 }
             ],
