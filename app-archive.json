@@ -2,7 +2,7 @@
     "appName": "Forlux Updater",
     "description": "This is my app description",
     "items": [
-	{
+        {
             "version": "1.2.0",
             "shortVersion": 4,
             "changes": [
