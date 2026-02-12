@@ -2,6 +2,20 @@
     "appName": "Forlux Updater",
     "description": "This is my app description",
     "items": [
+	{
+            "version": "1.1.0",
+            "shortVersion": 3,
+            "changes": [
+                {
+                    "type": testing update
+                    "message": "Fix bug #1"
+                }
+            ],
+            "date": "20262-12",
+            "mandatory": true,
+            "url": "https://alfian-code.github.io/flutter-oat-test/dist/3/1.1.0+1-windows",
+            "platform": "windows"
+        }
         {
             "version": "1.0.0",
             "shortVersion": 2,
